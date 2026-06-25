@@ -29,7 +29,7 @@ Welcome to my GitHub profile!
 * JavaScript
 * Bootstrap
 
-### Tools
+### Tools\
 
 * Git
 * GitHub
